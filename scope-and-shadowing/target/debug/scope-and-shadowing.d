@@ -1,0 +1,1 @@
+/home/chris/Dokumente/_BUSINESS/_PLAYGROUND/rust/Rust-By-Examples/scope-and-shadowing/target/debug/scope-and-shadowing: /home/chris/Dokumente/_BUSINESS/_PLAYGROUND/rust/Rust-By-Examples/scope-and-shadowing/src/main.rs
