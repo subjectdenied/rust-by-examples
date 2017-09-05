@@ -1,0 +1,1 @@
+/home/chris/Dokumente/_BUSINESS/_PLAYGROUND/rust/Rust-By-Examples/functions/target/rls/debug/libfunctions.rmeta: /home/chris/Dokumente/_BUSINESS/_PLAYGROUND/rust/Rust-By-Examples/functions/src/main.rs
